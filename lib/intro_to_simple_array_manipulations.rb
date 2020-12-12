@@ -1,2 +1,5 @@
 def using_push (array,string)
-  color_in_the_rainbow = [""]
+  colors_in_the_rainbow = ["red", "orange", "yellow", "green", "blue", "indigo"]
+  next_color = "violet"
+  colors_in_the_rainbow.push ("violet")
+end
