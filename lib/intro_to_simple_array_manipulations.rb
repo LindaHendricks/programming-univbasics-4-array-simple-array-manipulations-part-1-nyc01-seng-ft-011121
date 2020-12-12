@@ -23,5 +23,9 @@ def using_unshift (array, string)
   end
   
   def using_shit (array)
+    @my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+    @im_so_over_this_city = @my_favorite_cities.shift 
+    return @im_so_over_this_city
+  end
     
   
