@@ -14,5 +14,6 @@ def using_unshift (array, string)
      @continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
     @deleted_string = @continents.pop 
     return @deleted_string 
-    
   end
+  
+  
