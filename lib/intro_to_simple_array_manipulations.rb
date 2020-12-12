@@ -27,5 +27,8 @@ def using_unshift (array, string)
     @im_so_over_this_city = @my_favorite_cities.shift 
     return @im_so_over_this_city
   end
+  
+  def shift_with_args
+    
     
   
