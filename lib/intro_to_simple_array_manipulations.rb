@@ -22,4 +22,6 @@ def using_unshift (array, string)
     return @small_dogs
   end
   
+  def using_shit (array)
+    
   
